@@ -1,0 +1,47 @@
+Spacecraft No.,ID,task1,task2,task3,task4,task5,Test condition
+1,178,1,2,2,0,100,BP2 bubble anomaly
+1,179,1,3,0,2,22,SV2 valve fault
+1,180,0,0,0,0,100,Normal
+1,181,1,3,0,4,76,SV4 valve fault
+1,182,0,0,0,0,100,Normal
+1,183,0,0,0,0,100,Normal
+1,184,1,1,0,0,100,Unknown anomaly
+1,185,0,0,0,0,100,Normal
+1,186,1,2,6,0,100,BP6 bubble anomaly
+1,187,0,0,0,0,100,Normal
+1,188,1,3,0,1,5,SV1 valve fault
+1,189,0,0,0,0,100,Normal
+1,190,1,3,0,3,46,SV3 valve fault
+1,191,0,0,0,0,100,Normal
+1,192,1,1,0,0,100,Unknown anomaly
+1,193,1,2,1,0,100,BP1 bubble anomaly
+1,194,0,0,0,0,100,Normal
+1,195,0,0,0,0,100,Normal
+1,196,1,2,4,0,100,BP4 bubble anomaly
+1,197,1,2,7,0,100,BP7 bubble anomaly
+1,198,0,0,0,0,100,Normal
+1,199,1,3,0,1,98,SV1 valve fault
+1,200,1,1,0,0,100,Unknown anomaly
+4,201,0,0,0,0,100,Normal
+4,202,1,3,0,3,44,SV3 valve fault
+4,203,0,0,0,0,100,Normal
+4,204,1,2,3,0,100,BP3 bubble anomaly
+4,205,1,3,0,2,94,SV2 valve fault
+4,206,0,0,0,0,100,Normal
+4,207,1,1,0,0,100,Unknown anomaly
+4,208,0,0,0,0,100,Normal
+4,209,1,2,7,0,100,BP7 bubble anomaly
+4,210,0,0,0,0,100,Normal
+4,211,1,3,0,1,95,SV1 valve fault
+4,212,1,3,0,2,70,SV2 valve fault
+4,213,0,0,0,0,100,Normal
+4,214,1,3,0,4,24,SV4 valve fault
+4,215,0,0,0,0,100,Normal
+4,216,1,2,1,0,100,BP1 bubble anomaly
+4,217,0,0,0,0,100,Normal
+4,218,1,1,0,0,100,Unknown anomaly
+4,219,1,2,5,0,100,BP5 bubble anomaly
+4,220,0,0,0,0,100,Normal
+4,221,1,2,2,0,100,BP2 bubble anomaly
+4,222,1,1,0,0,100,Unknown anomaly
+4,223,0,0,0,0,100,Normal
